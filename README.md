@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Aboagye Ampem</h1>
-<h3 align="center">An electrical / electronic engineer who loves to play detective on data and generate useful insights to help businesses make effective decisions</h3>
+<h3 align="center">I love to play detective on data and generate useful insights to help businesses make effective decisions</h3>
 
 - 🌱 I’m currently learning **SQL from Udacity (Honing my Skills)**
 
