@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aboagyeampem](https://github.com/aboagyeampem)
 
-- 💬 Ask me about **Data Analytics, MS Excel, Google Sheets, PostgresSQL**
+- 💬 Ask me about **Data Analytics, MS Excel, Google Sheets, PostgresSQL, Python**
 
 - 📫 How to reach me **aboagyeampem@gmail.com**
 
